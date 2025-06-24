@@ -53,7 +53,7 @@ Os algoritmos estão implementados em diversas linguagens de programação:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/[seu-usuario]/Algoritmos.git
+git clone https://github.com/greentoxic99/Algoritmos.git
 ```
 
 2. Navegue para o diretório específico do algoritmo que deseja estudar
